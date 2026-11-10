@@ -1,0 +1,13 @@
+{
+  "tier.huntersledger.none": "No tier",
+  "tier.huntersledger.novice": "Novice",
+  "tier.huntersledger.adept": "Adept",
+  "tier.huntersledger.expert": "Expert",
+  "tier.huntersledger.master": "Master",
+  "tier.huntersledger.max": "MAX",
+  "message.huntersledger.tier_up": "Mastery up! %1$s: %2$s (+%3$s%% damage)",
+  "command.huntersledger.empty": "Your ledger is empty. Go hunting!",
+  "command.huntersledger.header": "Hunter's Ledger - %s total kills",
+  "command.huntersledger.entry": "%1$s: %2$s kills | %3$s (+%4$s%%) | next: %5$s",
+  "command.huntersledger.reset": "Your ledger has been reset."
+}
