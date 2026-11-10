@@ -1,0 +1,13 @@
+{
+  "tier.huntersledger.none": "Aucun palier",
+  "tier.huntersledger.novice": "Novice",
+  "tier.huntersledger.adept": "Adepte",
+  "tier.huntersledger.expert": "Expert",
+  "tier.huntersledger.master": "Maître",
+  "tier.huntersledger.max": "MAX",
+  "message.huntersledger.tier_up": "Maîtrise supérieure ! %1$s : %2$s (+%3$s%% de dégâts)",
+  "command.huntersledger.empty": "Ton carnet est vide. Va chasser !",
+  "command.huntersledger.header": "Carnet du chasseur - %s kills au total",
+  "command.huntersledger.entry": "%1$s : %2$s kills | %3$s (+%4$s%%) | prochain : %5$s",
+  "command.huntersledger.reset": "Ton carnet a été réinitialisé."
+}
